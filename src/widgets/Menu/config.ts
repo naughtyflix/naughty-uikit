@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.vikingswap.finance",
+        href: "/buynow",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.vikingswap.finance/#/pool",
+        href: "/liquidity",
       },
     ],
   },
@@ -51,15 +51,15 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/VikingDefi/",
+        href: "https://github.com/naughtyflix/",
       },
       {
         label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
+        href: "/",
       },
       {
         label: "Blog",
-        href: "https://viking-swap.medium.com/",
+        href: "/",
       },
     ],
   },
@@ -71,19 +71,16 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "English",
-        href: "https://t.me/VikingSwapOfficial",
+        label: "TeleChat",
+        href: "https://t.me/naughtycoin",
       },
-      {
-        label: "Announcements",
-        href: "https://t.me/vikingswapannouncements",
-      },
+      
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/vikingswap",
+    href: "https://twitter.com/Naughtyflixclub",
   },
 ];
 
