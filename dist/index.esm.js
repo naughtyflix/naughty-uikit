@@ -1993,11 +1993,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.vikingswap.finance",
+                href: "/buy",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.vikingswap.finance/#/pool",
+                href: "/liquidity",
             },
         ],
     },
@@ -2034,15 +2034,15 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/VikingDefi/",
+                href: "https://github.com/naughtyflix/",
             },
             {
                 label: "Docs",
-                href: "https://vikingswap.gitbook.io/viking-swap/",
+                href: "https://www.naughtyflix.club/wp-content/uploads/2021/05/NAUGHTY-Whitepaper.pdf",
             },
             {
                 label: "Blog",
-                href: "https://viking-swap.medium.com/",
+                href: "https://www.naughtyflix.club/",
             },
         ],
     },
@@ -2054,18 +2054,15 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/VikingSwapOfficial",
+                href: "https://t.me/naughtycoin",
             },
-            {
-                label: "Announcements",
-                href: "https://t.me/vikingswapannouncements",
-            },
+            
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/vikingswap",
+        href: "https://twitter.com/Naughtyflixclub",
     },
 ];
 var MENU_HEIGHT = 64;
